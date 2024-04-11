@@ -4,7 +4,7 @@ metadata:
   name: disallow-empty-ingress-host
   annotations:
     policies.kyverno.io/title: Disallow empty Ingress host
-    policies.kyverno.io/category: Best Practices - github
+    policies.kyverno.io/category: Best Practices - github-2
     policies.kyverno.io/severity: medium
     kyverno.io/kyverno-version: 1.10.0
     policies.kyverno.io/subject: Ingress
